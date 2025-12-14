@@ -1,6 +1,6 @@
 ## Memory API - Virtualization Of Memory
 
-## Typed of memory
+## Types of memory
 - The first is called **Stack** memory and allocations and deallocations of it are managed implicitly by the compiler. It is sometimes called **automatic memory**
     - An example could be:
     ```
