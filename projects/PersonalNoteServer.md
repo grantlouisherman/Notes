@@ -1,8 +1,7 @@
 ## Personal Note Server
 
 ## Goal
-To create a simple service for me to record ideas and then be able to create mind maps via some LL
-
+To create a simple service for me to record ideas and then be able to create mind maps via some LL, also for personal we get text messages from it reminding me
 ## What we will need
 - Web Server 
 - Simple UI for me to write down notes
