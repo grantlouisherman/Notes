@@ -23,5 +23,8 @@
 - While its running the program uses:
     - **Stack** - to keep track of where is is in the function call chain as well as allocate local variables and pass parameters and return values to and from routines
     - **Heap** - used for dynamically allocated, user-managed memory, such as that you might receive from a call to **malloc** in C or **new** in a C++/Java object
+ 
+## Mchanaism: Address Translation
+- Limited Direct Exectuion (LDE), let the program run directly on the hardware, however at certain key points in time ( such as when a process issues a system call, or a timer interrupt) arrange so that the OS gets involved and makes sure the "right" thing happens.
 
 
