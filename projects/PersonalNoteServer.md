@@ -23,3 +23,10 @@ To create a simple service for me to record ideas and then be able to create min
         - get server deployed on raspberry pi
         - figure out how to keep rp on all the time
         - need to add functionality for note saving
+- 12/16/2025
+    - Made basic script to run a child process and execute an `ls -l` command
+    - **Next steps** 
+        - Setup github on raspberry pi
+        - integrate git command 
+        - create email `code`
+        - setup claude
